@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0847b28c-84a1-48b0-8b54-c2f9056e4c2c" name="Changes" comment="Задание1 сделано">
+    <list default="true" id="0847b28c-84a1-48b0-8b54-c2f9056e4c2c" name="Changes" comment="Задание5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692184024444</updated>
       <workItem from="1692184025490" duration="11290000" />
-      <workItem from="1692253167220" duration="1614000" />
+      <workItem from="1692253167220" duration="9823000" />
     </task>
     <task id="LOCAL-00001" summary="Начальный коммит">
       <option name="closed" value="true" />
@@ -68,7 +68,71 @@
       <option name="project" value="LOCAL" />
       <updated>1692187237690</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задание1 сделано">
+      <option name="closed" value="true" />
+      <created>1692255073928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692255073929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задание2">
+      <option name="closed" value="true" />
+      <created>1692257131705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692257131705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задание2 сделано">
+      <option name="closed" value="true" />
+      <created>1692258402581</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692258402581</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задание3 сделано">
+      <option name="closed" value="true" />
+      <created>1692259103194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692259103194</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задание4">
+      <option name="closed" value="true" />
+      <created>1692259938740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692259938740</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Задание4 сделано">
+      <option name="closed" value="true" />
+      <created>1692260595099</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692260595099</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Задание4 сделано">
+      <option name="closed" value="true" />
+      <created>1692260624044</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692260624044</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Задание5">
+      <option name="closed" value="true" />
+      <created>1692262651860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692262651860</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +140,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начальный коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начальный коммит" />
+    <MESSAGE value="Задание1 сделано" />
+    <MESSAGE value="Задание2" />
+    <MESSAGE value="Задание2 сделано" />
+    <MESSAGE value="Задание3 сделано" />
+    <MESSAGE value="Задание4" />
+    <MESSAGE value="Задание4 сделано" />
+    <MESSAGE value="Задание5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание5" />
   </component>
 </project>
