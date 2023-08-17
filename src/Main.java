@@ -22,5 +22,20 @@ public class Main {
     }
     public static void task2() {
         System.out.println("Задание2");
+        {
+        }
+        var dog = 8.0;
+        dog = dog + 4.0;
+        System.out.println("dog-" + dog);
+        {
+        }
+        var cat = 3.6;
+        cat = cat + 4.0;
+        System.out.println("cat-" + cat);
+        {
+        }
+        var paper = 763789;
+        paper = paper + 4;
+        System.out.println("paper-" + paper);
     }
 }
