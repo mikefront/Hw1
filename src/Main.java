@@ -80,5 +80,23 @@ public class Main {
         System.out.println("Задание5");
         {
         }
+        var frog = 3.5;
+        System.out.println("frog-" + frog);
+        {
+        }
+        var frog1 = 3.5;
+        frog1 = frog1 * 10;
+        System.out.println("frog-" + frog1);
+        {
+        }
+        var frog2 = 35.0;
+        frog2 = frog2 / 3.5;
+        System.out.println("frog-" + frog2);
+        {
+        }
+        var frog3 = 10.0;
+        frog3 = frog3 + 4;
+        System.out.println("frog-" + frog3);
+
     }
 }
