@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0847b28c-84a1-48b0-8b54-c2f9056e4c2c" name="Changes" comment="Задание2 сделано">
+    <list default="true" id="0847b28c-84a1-48b0-8b54-c2f9056e4c2c" name="Changes" comment="Задание4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692184024444</updated>
       <workItem from="1692184025490" duration="11290000" />
-      <workItem from="1692253167220" duration="5386000" />
+      <workItem from="1692253167220" duration="6903000" />
     </task>
     <task id="LOCAL-00001" summary="Начальный коммит">
       <option name="closed" value="true" />
@@ -92,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692258402581</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Задание3 сделано">
+      <option name="closed" value="true" />
+      <created>1692259103194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692259103194</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задание4">
+      <option name="closed" value="true" />
+      <created>1692259938740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692259938740</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +119,8 @@
     <MESSAGE value="Задание1 сделано" />
     <MESSAGE value="Задание2" />
     <MESSAGE value="Задание2 сделано" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание2 сделано" />
+    <MESSAGE value="Задание3 сделано" />
+    <MESSAGE value="Задание4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание4" />
   </component>
 </project>

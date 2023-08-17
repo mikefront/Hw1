@@ -59,6 +59,17 @@ public class Main {
         System.out.println("paper-" + paper);
     }
     public static void task4() {
-
+        var friend = 19;
+        System.out.println("friend-" + friend);
+        {
+        }
+        var friend1 = 19;
+        friend1 = friend1 * 2;
+        System.out.println("friend-" + friend1);
+        {
+        }
+        var friend2 = 38.0;
+        friend2 = friend2 / 7.0;
+        System.out.println("friend" + friend2);
     }
 }
