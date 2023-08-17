@@ -70,6 +70,6 @@ public class Main {
         }
         var friend2 = 38.0;
         friend2 = friend2 / 7.0;
-        System.out.println("friend" + friend2);
+        System.out.println("friend-" + friend2);
     }
 }
