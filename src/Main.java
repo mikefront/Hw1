@@ -4,6 +4,7 @@ public class Main {
         task1();
         task2();
         task3();
+        task4();
     }
 
     public static void task1() {
@@ -56,5 +57,8 @@ public class Main {
         var paper = 763789;
         paper = paper - 7639;
         System.out.println("paper-" + paper);
+    }
+    public static void task4() {
+
     }
 }
